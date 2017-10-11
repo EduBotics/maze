@@ -17,6 +17,7 @@ import random
 
 from PySide import QtGui, QtCore
 from PySide.QtGui import QPixmap, QImage, QColor, QPalette
+
 from collections import namedtuple
 
 
@@ -70,33 +71,12 @@ class Location(object):
 class LinkedList(object):
     class LinkedListItem(object):
         def __init__(self, value=None, next=None, prev=None):
-            self._next = next
-            self._prev = prev
-            self._value = value
+            self.next = next
+            self.prev = prev
+            self.value = value
 
-        @property
-        def next(self):
-            return self._next
-
-        @next.setter
-        def next(self, item):
-            self._next = item
-
-        @property
-        def prev(self):
-            return self._prev
-
-        @prev.setter
-        def prev(self, item):
-            self._prev = item
-
-        @property
-        def value(self):
-            return self._value
-
-        @value.setter
-        def value(self, val):
-            self._value = val
+        def __str__(self):
+            return "{}".format(self.value)
 
     def __init__(self, root=None):
         self._root = self.LinkedListItem(value=root)
@@ -105,10 +85,12 @@ class LinkedList(object):
     def __str__(self):
         out = ""
         item = self.root
-        out += item.value
+        out += str(item)
         while item.next:
+            if item == self.head:
+                break
             item = item.next
-            out += ";{}".format(item.value)
+            out += ";{}".format(item)
         return out
 
     @property
@@ -130,8 +112,20 @@ class LinkedList(object):
 
     def append(self, value):
         item = self.head
-        item.next = self.LinkedListItem(value=value, prev=item)
-        self._head = item.next
+        if self.head.value is None:
+            self.head.value = value
+        else:
+            item.next = self.LinkedListItem(value=value, prev=item)
+            self._head = item.next
+
+    def find(self, item, start=None, direction=1):
+        current = self.head if start is None else start
+        while current.value != item:
+            if direction == 1:
+                current = current.next
+            else:
+                current = current.prev
+        return current
 
 
 class Robot(object):
@@ -141,7 +135,7 @@ class Robot(object):
     def __init__(self, maze=None):
         self.maze = maze
         self.location = Location(1, 0)
-        self.memory = LinkedList(root=self.location)
+        self.memory = LinkedList()
         self.corridors = {}
         self.visits = {}
 
@@ -152,15 +146,16 @@ class Robot(object):
             self.corridors[self.location] = corridors
             self.visits[self.location] = 1
         else:
-            if self.visits[self.location] > 1:
+            if self.visits[self.location] >= 1:
                 print "Backtracking..."
-                item = self.memory.head.prev
-                print "Checking {}".format(item.value)
-                while item.value != self.location:
-                    item = item.prev
-                    print "Checking {}".format(item.value)
-                self.memory.head = item.prev
-                print "Set head to {}".format(self.memory.head.value)
+                print "From: {}".format(self.memory)
+                item = self.memory.find(
+                    self.location,
+                    start=self.memory.head.prev,
+                    direction=-1
+                )
+                self.memory.head = item
+                print "  To: {}".format(self.memory)
 
             corridors = self.corridors[self.location]
             self.visits[self.location] += 1
