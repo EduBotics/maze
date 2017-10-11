@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Li",
+				"LinkedListItem"
+			],
+			[
+				"st",
+				"start_location"
+			],
+			[
+				"Ind",
+				"IndexError\tclass"
+			],
+			[
+				"gui",
+				"guid_locations\tstatement"
+			],
+			[
+				"muf",
+				"mufg_cols_start_end\tstatement"
+			],
+			[
+				"ge",
+				"get_extra_key_transaction\tfunction"
+			],
+			[
+				"ex",
+				"extra_keys\tstatement"
+			],
+			[
+				"get_col",
+				"get_col_for_target\tfunction"
+			],
+			[
+				"Pare",
+				"ParserElement\tclass"
+			],
+			[
+				"po",
+				"portal_data\tstatement"
+			],
+			[
+				"key",
+				"key_rows_start_end\tstatement"
+			],
+			[
+				"get_int",
+				"get_int_addr"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"in",
+				"invcount\tfunction"
+			],
+			[
+				"Uni",
+				"unittest\tmodule"
+			],
+			[
+				"board",
+				"board_changed"
+			],
+			[
+				"ass",
+				"assertEqual\t(function)"
+			],
+			[
+				"coun",
+				"count_zeros"
+			],
+			[
+				"ne",
+				"new_line\tparam"
+			],
+			[
+				"loc",
+				"location\tstatement"
+			],
+			[
+				"new",
+				"new_tile\tfunction"
+			],
+			[
+				"boa",
+				"board_changed\tstatement"
+			],
+			[
+				"me",
+				"merge\tfunction"
+			],
+			[
+				"_g",
+				"_grid_height\tstatement"
+			],
+			[
+				"_gr",
+				"_grid_height\tstatement"
+			],
+			[
+				"_grid",
+				"_grid_width\tstatement"
+			],
+			[
+				"ini",
+				"initial_tiles"
+			],
+			[
+				"get",
+				"get_grid_height\tfunction"
+			],
+			[
+				"dir",
+				"direction\tparam"
+			],
+			[
+				"r",
+				"randint\tstatement"
+			],
+			[
+				"empt",
+				"empty_tile\tstatement"
+			],
+			[
+				"ze",
+				"zero_entries_after\tstatement"
+			],
+			[
+				"gri",
+				"grid_width\tparam"
+			],
+			[
+				"gr",
+				"grid_height\tparam"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"out",
+				"out_of_range_house\tstatement"
+			],
+			[
+				"is",
+				"is_legal_move\tfunction"
+			],
+			[
+				"app",
+				"apply_move\tfunction"
+			],
+			[
+				"test",
+				"test_game\tstatement"
+			],
+			[
+				"Sol",
+				"SolitaireMancala\tclass"
+			],
+			[
+				"win",
+				"winning_sequence\tstatement"
+			],
+			[
+				"ch",
+				"choose_move\tfunction"
+			],
+			[
+				"hosu",
+				"house_num\tparam"
+			],
+			[
+				"hous",
+				"house_num\tparam"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"hou",
+				"house_num\tparam"
+			],
+			[
+				"m",
+				"my_game\tstatement"
+			],
+			[
+				"g",
+				"my_game"
+			],
+			[
+				"Wor",
+				"WorldsimParser"
+			],
+			[
+				"lin",
+				"link_request"
+			],
+			[
+				"depl",
+				"deploy_request"
+			],
+			[
+				"comma",
+				"command_entry"
+			],
+			[
+				"W",
+				"TestWorldsimPopulator"
+			],
+			[
+				"lat",
+				"latlng"
+			],
+			[
+				"locat",
+				"locate_command"
+			],
+			[
+				"por",
+				"portal_id"
+			],
+			[
+				"parse",
+				"parseString"
+			],
+			[
+				"porta",
+				"portal_id"
+			],
+			[
+				"co",
+				"command_sequence"
+			],
+			[
+				"link",
+				"link_sequence"
+			],
+			[
+				"de",
+				"destro_portal_ref"
+			],
+			[
+				"destro",
+				"destroy_link_request"
+			],
+			[
+				"ca",
+				"capture_ref"
+			],
+			[
+				"fi",
+				"field_ref"
+			],
+			[
+				"portal",
+				"portalguid"
+			],
+			[
+				"link_",
+				"link_sequence"
+			],
+			[
+				"dest",
+				"destro_portal_ref"
+			],
+			[
+				"for",
+				"Forward"
+			],
+			[
+				"des",
+				"destroy_link_request"
+			],
+			[
+				"cap",
+				"capture_request"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"port",
+				"portalname"
+			],
+			[
+				"porat",
+				"portal_one"
+			],
+			[
+				"handl",
+				"handled1"
+			],
+			[
+				"portal_",
+				"portal_one"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"assert",
+				"assertFalse"
+			],
+			[
+				"cre",
+				"create_four_portals"
+			],
+			[
+				"create",
+				"create_portals"
+			],
+			[
+				"add",
+				"add_portal"
+			],
+			[
+				"pr",
+				"property\tNew Property"
+			],
+			[
+				"p",
+				"portal3"
+			],
+			[
+				"max",
+				"max_field_portal"
+			],
+			[
+				"are",
+				"area_of_triangle"
+			],
+			[
+				"pot",
+				"potential_field_portals"
+			],
+			[
+				"ma",
+				"max_field_portal"
+			],
+			[
+				"linked",
+				"linked_portals"
+			],
+			[
+				"linke",
+				"linked_portals"
+			],
+			[
+				"pro",
+				"portals"
+			],
+			[
+				"create_",
+				"create_two_portals"
+			],
+			[
+				"Link",
+				"LinkCommand"
+			],
+			[
+				"_p",
+				"_portal2"
+			],
+			[
+				"_po",
+				"_portal1"
+			],
+			[
+				"Lin",
+				"LinkCommand"
+			],
+			[
+				"_prota",
+				"_portalidx"
+			],
+			[
+				"_portal",
+				"_portalidx"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"id",
+				"ids_to_names"
+			],
+			[
+				"Tes",
+				"TestCase"
+			],
+			[
+				"poral_",
+				"portal_one"
+			],
+			[
+				"prot",
+				"portal_to"
+			],
+			[
+				"ide",
+				"identifier"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"For",
+				"Forward"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pyside_draw.py",
+			"settings":
+			{
+				"buffer_size": 7593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mnj/.config/sublime-text-3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "singleton.py",
+			"settings":
+			{
+				"buffer_size": 1279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Singleton:"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"test",
+				"Anaconda: Run Current Test"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Run Current Test"
+			],
+			[
+				"ref",
+				"Python Refactor: Extract Method"
+			],
+			[
+				"run",
+				"Anaconda: Run Last Test"
+			],
+			[
+				"refa",
+				"Python Refactor: Extract Method"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"paac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 62416))",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mnj/EduBotics/maze"
+	],
+	"file_history":
+	[
+		"/home/mnj/Downloads/IngressLinkathon/tests/__init__.py",
+		"/home/mnj/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/mnj/Downloads/kfsone-tradedangerous-c87df6e61d9a/README.txt",
+		"/home/mnj/ingress-intel-total-conversion/Inventory.py",
+		"/home/mnj/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/mnj/ingress-intel-total-conversion/Inventory_test.py",
+		"/C/Users/mnj/Dropbox/Bujinkan/Densho/TAKAGIYOSHIN/TAKAGI.doc",
+		"/C/Users/mnj/Dropbox/Bujinkan/Densho/TAKAGIYOSHIN/DAISHO.DOC",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/PrinciplesOfComputing.sublime-project",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week1/PracticeMiniProject/tests/test_mancala.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/week2/__init__.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/week2/Project_2048/tests/__init__.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/week2/Project_2048/__init__.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week2/Project_2048/tests/test_merge.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week2/Project_2048/twentyfortyeight.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week3/TTTBoard/tttboard.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week3/Homework/week3_homework.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week1/PracticeMiniProject/mancala.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week2/Project_2048/tests/test_twentyfortyeight.py",
+		"/C/Users/mnj/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/week2/Project_2048/twentyfortyeight.py",
+		"/C/Users/mnj/Dropbox/Coursera/PrinciplesOfComputing/Week2/__init__.py",
+		"/C/Users/mnj/Documents/Projects/IngressLinkathon/tests/worldsim_populator.py",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/Makefile",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/gs_img.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/GS_bio.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/banner.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/paradoxes.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/script.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/times.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/contact.tex",
+		"/C/Users/mnj/Dropbox/HEMA4EMA/Silver Demo at BH/GS_flyer.tex",
+		"/C/Users/mnj/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/mnj/Documents/Projects/test2/worldsim_parser.py",
+		"/C/Users/mnj/Documents/Projects/test2/tests/test_worldsim_parser.py",
+		"/C/Users/mnj/Documents/Projects/test2/worldsim.py",
+		"/C/Users/mnj/Documents/Projects/test2/tests/test_worldsim.py",
+		"/L/debug_print_investigation/documentation/debug_print_v5_filesystem.tex",
+		"/C/Users/mnj/Documents/Projects/IngressLinkathon/tests/test_worldsim.py",
+		"/C/Users/mnj/Documents/Projects/IngressLinkathon/worldsim.py",
+		"/C/Users/mnj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/mnj/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mnj/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/mnj/Google Drive/Programming/DfdGen/v5_tagged_data_prod_dtl.tex",
+		"/E/cygwin/lib/python2.7/site-packages/pyparsing-2.1.4.dist-info/top_level.txt",
+		"/E/cygwin/lib/python2.7/site-packages/pyparsing-2.1.4.dist-info/INSTALLER",
+		"/E/cygwin/lib/python2.7/site-packages/pyparsing-2.1.4.dist-info/DESCRIPTION.rst",
+		"/E/cygwin/lib/python2.7/site-packages/pyparsing-2.1.4.dist-info/WHEEL",
+		"/E/cygwin/lib/python2.7/site-packages/pyparsing-2.1.4.dist-info/metadata.json",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/VCloudsWeather2/UserVariables.inc",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/VCloudsWeather2/VClouds Weather 2 - 2Days.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/VCloudsWeather2/VClouds Weather 2 - 1Days.ini",
+		"/E/Program Files/Rainmeter/Rainmeter.exe.config",
+		"/E/Program Files/Rainmeter/debug.log",
+		"/C/Users/mnj/Downloads/fluxbuntu-7.10-x86/Machines/fluxubuntu-7.10-x86/fluxubuntu-7.10-x86.xml",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/SidebarReader.inc",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/SidebarCommon.inc",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Enigma/@Resources/Styles/Enigma Dark/Options.inc",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Newspaper/Cigarette/Cigarette.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Newspaper/Notes/Full.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Newspaper/Newspaper Skin/NewsapaperSkin.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Newspaper/Gmail/Mails.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Newspaper/Launchers/Launcher3/Launcher3.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/illustro/Disk/2 Disks.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/Enigma/Sidebar/Reader/Reader.ini",
+		"/C/Users/mnj/Documents/Rainmeter/Skins/DINAJ2/dinaj.ini"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pyside_draw.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2109,
+								2109
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1644.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mnj/.config/sublime-text-3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "singleton.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1279,
+								1279
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Singleton:",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 295.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "maze.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
