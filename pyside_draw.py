@@ -120,11 +120,15 @@ class LinkedList(object):
 
     def find(self, item, start=None, direction=1):
         current = self.head if start is None else start
+        if current is None:
+            return
         while current.value != item:
             if direction == 1:
                 current = current.next
             else:
                 current = current.prev
+            if current is None:
+                return
         return current
 
 
